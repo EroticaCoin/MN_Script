@@ -1,6 +1,7 @@
 # Erotica Masternode Script
 
 Requirements;
+
 Ubuntu 16.04 (Other versions will be added)
 
 Usage;
