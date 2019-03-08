@@ -2,7 +2,7 @@
 
 Requirements;
 
-Ubuntu 16.04 (Other versions will be added)
+Linux x64 - Tested on 14.04 16.04 & 18.04 Ubuntu
 
 Usage;
 
