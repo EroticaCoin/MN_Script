@@ -5,10 +5,10 @@ CONFIGFOLDER='/root/.erotica'
 COIN_DAEMON='eroticad'
 COIN_CLI='erotica-cli'
 COIN_PATH='/usr/local/bin/'
-COIN_GETDMN='https://github.com/EroticaCoin/EroticaCore/releases/download/1.0.0.0/eroticad'
-COIN_GETCLI='https://github.com/EroticaCoin/EroticaCore/releases/download/1.0.0.0/erotica-cli'
+COIN_GETDMN='https://github.com/EroticaCoin/EroticaCore/releases/download/1.1.0/eroticad'
+COIN_GETCLI='https://github.com/EroticaCoin/EroticaCore/releases/download/1.1.0/erotica-cli'
 COIN_NAME='Erotica'
-COIN_EXPLORER='http://127.0.0.2'
+COIN_EXPLORER='http://95.179.206.24'
 COIN_PORT=6969
 RPC_PORT=6868
 
